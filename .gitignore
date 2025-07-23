@@ -1,0 +1,5 @@
+.idea
+.git
+*.yml
+/zzyl-oss/src/main/java/com/zzyl/oss/config/OssAliyunAutoConfig.java
+/zzyl-oss
